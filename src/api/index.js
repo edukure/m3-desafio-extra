@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const imagensApiUrl = 'https://dog.ceo/api'
-const sobreApiUrl = 'https://api.thedogapi.com/v1/'
+const sobreApiUrl = 'https://api.thedogapi.com/v1'
 
 
 const buscaImagemPorRaca = raca => axios
